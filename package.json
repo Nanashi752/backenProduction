@@ -1,0 +1,15 @@
+{
+  "name": "backendpro",
+  "version": "1.0.0",
+  "description": "yo backend production",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
